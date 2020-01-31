@@ -6,6 +6,7 @@ bind r source-file ~/.tmux.conf \; display-message "Config reloaded..."
 `touch ~/.tmux.conf && echo 'bind r source-file ~/.tmux.conf \; display-message "Config reloaded..."' >> ~/.tmux.conf
 
 
+# commands area
 
 # leet
 C-b t #time
