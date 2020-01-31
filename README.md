@@ -1,5 +1,12 @@
 # yatmcs
 ```
+# essential
+bind r source-file ~/.tmux.conf \; display-message "Config reloaded..."
+# add above to your conf file
+`touch ~/.tmux.conf && echo 'bind r source-file ~/.tmux.conf \; display-message "Config reloaded..."' >> ~/.tmux.conf
+
+
+
 # leet
 C-b t #time
 
