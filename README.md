@@ -20,4 +20,5 @@ C-b up down left right
 C-b c (creates whole new window )
 C-b 0 (base zero)
 C-b 1(goes to first new pane actually second pane
+C-b x (kill some windows and ultimatly quit tmux)
 ```
