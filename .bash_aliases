@@ -1,0 +1,1 @@
+/home/netkam/.bash_aliases

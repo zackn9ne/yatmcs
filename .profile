@@ -1,0 +1,1 @@
+/home/netkam/.profile
