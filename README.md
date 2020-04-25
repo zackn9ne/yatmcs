@@ -12,10 +12,10 @@ $> touch ~/.tmux.conf && echo 'bind r source-file ~/.tmux.conf \; display-messag
 C-b t #time
 
 # panes
-C-b %
-C-b "
+C-b % Vert split
+C-b - Horiz splitjj (this I customise)
 C-b SHIFT-SPACE -> flips your panes around to next view
-C-b up down left right
+C-b (move to pane) up down left right -> I add mappings for VIM like move to pane C-b JKL:
 
 # windows
 C-b c (creates whole new window )
