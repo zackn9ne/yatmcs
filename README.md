@@ -14,6 +14,7 @@ C-b t #time
 # panes
 C-b %
 C-b "
+C-b SHIFT-SPACE -> flips your panes around to next view
 C-b up down left right
 
 # windows
