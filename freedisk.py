@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#gets free diskspace % in python zackn9ne
+#gets free diskspace % in python macOs zackn9ne
 
 import subprocess
 cmd = subprocess.Popen(['df', '-h', '/'], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
